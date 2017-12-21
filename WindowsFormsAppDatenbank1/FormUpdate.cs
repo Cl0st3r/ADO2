@@ -23,6 +23,7 @@ namespace WindowsFormsAppDatenbank1
         {
             SelArtikel = artiel;
             InitializeControls();
+            //asdf
         }
 
         public DialogResult Result
