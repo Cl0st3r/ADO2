@@ -81,9 +81,6 @@ namespace WindowsFormsAppDatenbank1
             }
         }
 
-      
-        
-
         public int Verpackung
         {
             get
